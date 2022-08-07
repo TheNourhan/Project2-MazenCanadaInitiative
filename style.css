@@ -26,7 +26,12 @@ li{
 	display: inline-block;
 	padding-right: 70px;
 }
-
+span{
+	padding: 5px;
+	border: 1px solid black;
+	border-radius: 50%;
+	background-color: gray;	
+}
 /* ---------- 2- INTRO SECTION --------------*/
 #section-intro{
 	width: 1200px;
@@ -108,7 +113,6 @@ th,td{
 }
 /*------------- 5- FOOTER ---------------*/
 #footer{
-	margin: 0 auto;
-	margin: 20px 20px 30px 440px;
+	text-align: center;
 }
 
